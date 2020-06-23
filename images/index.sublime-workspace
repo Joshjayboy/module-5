@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ho",
+				"homeHtmlToInsertIntoMainPage"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"inse",
+				"insertHtml"
+			],
+			[
+				"ch",
+				"chosenCategoryShortName"
+			],
+			[
+				"ran",
+				"randomCategoryShortName"
+			],
+			[
+				"sh",
+				"short_name"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: op",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Open in Browser: Guide"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"View Package File"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/FUJITSU SIEMENS/New folder/module5/css/bootstrap.min.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/module5/css/style.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/module5/index.html",
+		"/C/Users/FUJITSU SIEMENS/New folder/module5/css/bootstrap.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/4/index.html",
+		"/C/Users/FUJITSU SIEMENS/New folder/4/SpeakHello.js",
+		"/C/Users/FUJITSU SIEMENS/New folder/4/SpeakGoodBye.js",
+		"/C/Users/FUJITSU SIEMENS/New folder/4/script.js",
+		"/C/Users/FUJITSU SIEMENS/New folder/index.html",
+		"/C/Users/FUJITSU SIEMENS/New folder/module2-solution/index.html",
+		"/C/Users/FUJITSU SIEMENS/AppData/Roaming/Sublime Text 3/Packages/Open In Browser/README.md",
+		"/C/Users/FUJITSU SIEMENS/New folder/module 3 solution/index.html",
+		"/C/Users/FUJITSU SIEMENS/coursera-test/module 2-solution/index.html",
+		"/C/Users/FUJITSU SIEMENS/New folder/4/speakgoodbye.js",
+		"/C/Users/FUJITSU SIEMENS/New folder/4/speakhello.js",
+		"/C/Users/FUJITSU SIEMENS/New folder/module 3 solution/css/style.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/module 3 solution/style.css",
+		"/C/Users/FUJITSU SIEMENS/Documents/module2-solution/css/style.css",
+		"/C/Users/FUJITSU SIEMENS/Documents/module2-solution/index.html",
+		"/C/Users/FUJITSU SIEMENS/New folder/css/style.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/css/bootstrap-theme.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/css/bootstrap-theme.min.css.map",
+		"/C/Users/FUJITSU SIEMENS/New folder/css/bootstrap.css.map",
+		"/C/Users/FUJITSU SIEMENS/New folder/css/bootstrap.css",
+		"/C/Users/FUJITSU SIEMENS/New folder/.git/index",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/fonts/glyphicons-halflings-regular.woff",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/fonts/glyphicons-halflings-regular.woff2",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/fonts/glyphicons-halflings-regular.ttf",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/js/jquery-1.11.3.min.js",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/index.html",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/fonts/glyphicons-halflings-regular.eot",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/fonts/glyphicons-halflings-regular.svg",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/js/bootstrap.js",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/js/bootstrap.min.js",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/js/npm.js",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/js/script.js",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap-theme.css",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap-theme.css.map",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap-theme.min.css",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap-theme.min.css.map",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap.css",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap.css.map",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap.min.css",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/style.css",
+		"/C/Users/FUJITSU SIEMENS/Desktop/New folder/bootstrap.min.css.map",
+		"/C/Windows/System32/energy-report.html",
+		"/C/Users/FUJITSU SIEMENS/coursera-test/site/css/style.css",
+		"/C/Users/FUJITSU SIEMENS/coursera-test/index.html",
+		"/C/Users/FUJITSU SIEMENS/Documents/line/css/style.css",
+		"/C/Users/FUJITSU SIEMENS/coursera-test/site/index.html",
+		"/C/Users/FUJITSU SIEMENS/Documents/line/index.html",
+		"/C/Program Files/Sublime Text 3/course.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
